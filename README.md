@@ -7,6 +7,8 @@ A Dynamic Registration page made using HTML5, CSS3, Javascript, Jquery
 * Keeps track of 'online' and 'offline' events and notifies user when connectivity is lost
 * Leverages on local storage to store values if connectivity is lost
 
+####View Results online: [click here] (https://htmlpreview.github.io/?https://github.com/nimish2092/Dynamic-Registration-Page/blob/master/form.html)
+
 ###Some snapshots are attached below
 
 ![alt text](https://github.com/nimish2092/Dynamic-Registration-Page/blob/master/snapshots/form1.png "Password errors")
